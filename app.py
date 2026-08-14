@@ -56,10 +56,10 @@ st.subheader("📊 Model Performance")
 # Replace these values with your ACTUAL Colab results.
 # ---------------------------------------------------------
 
-accuracy = 0.00
-precision = 0.00
-recall = 0.00
-f1_score_value = 0.00
+accuracy = 0.9467
+precision = 0.9491
+recall = 0.9467
+f1_score_value = 0.9463
 
 
 # Metric cards
