@@ -184,6 +184,30 @@ if st.button("🔍 Predict Sleep Disorder", use_container_width=True):
 
 st.divider()
 
+# -----------------------------
+# Model Performance
+# -----------------------------
+
+st.subheader("📊 Model Performance")
+
+accuracy = 0.XX
+precision = 0.XX
+recall = 0.XX
+f1_score_value = 0.XX
+
+col1, col2, col3, col4 = st.columns(4)
+
+col1.metric("Accuracy", f"{accuracy * 100:.2f}%")
+col2.metric("Precision", f"{precision * 100:.2f}%")
+col3.metric("Recall", f"{recall * 100:.2f}%")
+col4.metric("F1 Score", f"{f1_score_value * 100:.2f}%")
+
+st.progress(accuracy)
+
+st.caption(
+    "Performance metrics are calculated on the held-out test dataset."
+)
+
 st.caption(
     "⚠️ This application is an educational machine-learning project "
     "and is not a medical diagnostic tool."
