@@ -2,6 +2,12 @@
 
 A machine learning-based web application that predicts sleep disorders based on lifestyle and health information. Built with Streamlit, scikit-learn, and Python.
 
+## 🔗 Try it Live!
+
+**[🚀 Open the Live Application](https://sleep-health-predictor-8ppfucrdwcfnktgrbkhjjf.streamlit.app/)**
+
+Click the link above to use the application directly in your browser. No installation required!
+
 ## 🎯 Overview
 
 Sleep Health Predictor is an educational machine learning project that uses a trained classification model to predict potential sleep disorders. The application analyzes various health and lifestyle factors to classify users into three categories:
