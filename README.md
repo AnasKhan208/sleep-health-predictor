@@ -181,7 +181,7 @@ This application is provided for **educational purposes only** and should not be
 
 ## 👨‍💻 Author
 
-**Anas Khan** - [GitHub Profile](https://github.com/AnasKhan208)
+**MD Shahriar Anas Khan** - [GitHub Profile](https://github.com/AnasKhan208)
 
 ## 📞 Support
 
